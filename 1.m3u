@@ -161,7 +161,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
-#EXTINF:-1 tvg-id="147.astro" ch-number="147" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="ðŸ‡²ðŸ‡¾ Malaysia(ASTRO)" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NTV7_v1.png",NTV7 CH147 (A)
+#EXTINF:-1 tvg-id="147.astro" ch-number="147" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="📡Malaysia(ASTRO)📡" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NTV7_v1.png",NTV7 CH147 (A)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
