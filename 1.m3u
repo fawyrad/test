@@ -1068,19 +1068,21 @@ BACKUP CHANNELS
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png", Maharbawdi 
 https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/ZWo91Vr.jpg", VOA 
-https://voa-ingest.akamaized.net/hls/live/2033872-b/tvmc05/playlist.m3u8
+#https://voa-ingest.akamaized.net/hls/live/2033872-b/tvmc05/playlist.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_tv_mm.png", Mahar
-https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+#https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/num/5-plus-mm.png", 5plus
-https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+#https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png", MRTV 4
-https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png", Channel 7
-https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+#https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png", Channel K
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png", Fortune TV
-http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+#http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+
+
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png", MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/myanmar-international-tv-mm.png", MITV
