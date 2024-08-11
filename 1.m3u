@@ -1,31 +1,3 @@
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png", Maharbawdi 
-https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/ZWo91Vr.jpg", VOA 
-https://voa-ingest.akamaized.net/hls/live/2033872-b/tvmc05/playlist.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_tv_mm.png", Mahar
-https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/num/5-plus-mm.png", 5plus
-https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png", MRTV 4
-https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png", Channel 7
-https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png", Channel K
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png", Fortune TV
-http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png", MNTV
-https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/myanmar-international-tv-mm.png", MITV
-https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png", MCS
-https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mvm-th-mm.png", MVM
-https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
-#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_music.png", Myanmar Music
-https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
-=====================================================================================================
-
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="📡Malaysia(ASTRO)📡" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 HD CH101
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
@@ -1068,5 +1040,31 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
-
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png", Maharbawdi 
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.imgur.com/ZWo91Vr.jpg", VOA 
+https://voa-ingest.akamaized.net/hls/live/2033872-b/tvmc05/playlist.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_tv_mm.png", Mahar
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/num/5-plus-mm.png", 5plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png", MRTV 4
+https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png", Channel 7
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png", Channel K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png", Fortune TV
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png", MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/myanmar-international-tv-mm.png", MITV
+https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://i.postimg.cc/GpHqMr4y/IMG-20231018-134533.png", MCS
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mvm-th-mm.png", MVM
+https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
+#EXTINF:-1 group-title="Myanmar" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_net_music.png", Myanmar Music
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
+=====================================================================================================
 
