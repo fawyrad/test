@@ -1093,37 +1093,42 @@ https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
 =====================================================================================================
 #EXTM3U
-#EXTINF:-1 group-title="Test 4K Sports" tvg-logo="##",RMC Sport 1 ⁴ᵏ
+#EXTINF:-1 group-title="Test 4K Sports",RMC Sport 1 ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86265 
 
 #EXTM3U
-#EXTINF:-1 group-title="Test 4K Sports" tvg-logo="##",Astro SuperSport ⁴ᵏ
+#EXTINF:-1 group-title="Test 4K Sports",Astro SuperSport ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86257
 
 #EXTM3U
-#EXTINF:-1 group-title="Test 4K Sports" tvg-logo="##",Eleven Sports 1
+#EXTINF:-1 group-title="Test 4K Sports",Eleven Sports 1
  ⁴ᴷ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86266 
 
 #EXTM3U
-#EXTINF:-1 group-title="Test 4K Sports" tvg-logo="##",Sky Sport Bundesliga ⁴ᵏ
+#EXTINF:-1 group-title="Test 4K Sports",Sky Sport Bundesliga ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86292 
 
 #EXTM3U
-#EXTINF:-1 group-title="Test 4K Sports" tvg-logo="##",Now HK Sports 4K 1 ⁴ᵏ
+#EXTINF:-1 group-title="Test 4K Sports",Now HK Sports 4K 1 ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86258 
 
 #EXTM3U
-#EXTINF:-1 group-title="Test 4K Sports" tvg-logo="##",Now HK Sports 4K 2 ⁴ᵏ
+#EXTINF:-1 group-title="Test 4K Sports",Now HK Sports 4K 2 ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86268 
 
 #EXTM3U
-#EXTINF:-1 group-title="Test 4K Sports" tvg-logo="##",Now HK Sports 4K 3 ⁴ᵏ
+#EXTINF:-1 group-title="Test 4K Sports",Now HK Sports 4K 3 ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86269 
 
 #EXTM3U
-#EXTINF:-1 group-title="Test 4K Sports" tvg-logo="##",Hub Premier 2 ⁴ᵏ
+#EXTINF:-1 group-title="Test 4K Sports",Hub Premier 2 ⁴ᵏ
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
+
+
+
+
+
 
 
 
