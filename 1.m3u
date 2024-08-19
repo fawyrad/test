@@ -1902,12 +1902,10 @@ https://livednow.com/migu/641886683?sign=gAAAAABmozHg23Gh6HcESG-oWCn40zyh6aw6Sod
 http://yourservpan.com:3050/live/ThomasC/nPRTDXKzNR/425332.ts
 
 #EXTM3U
-#EXTINF:-1 group-title="OTHER SPORTS",HK NOW SPORTS 2
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4F:01:87&amp;stream=1497552&amp;extension=ts&amp;play_token=mNwiuHhRDS
+#EXTINF:-1 group-title="OTHER SPORTS",
 
 #EXTM3U
-#EXTINF:-1 group-title="OTHER SPORTS",HK NOW SPORTS 3
-http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:FF:08:0D&amp;stream=554947&amp;extension=ts&amp;play_token=rTmipN9K39#http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4F:01:87&amp;stream=1497553&amp;extension=ts&amp;play_token=gd1qQG6dXr
+#EXTINF:-1 group-title="OTHER SPORTS",
 
 
 
