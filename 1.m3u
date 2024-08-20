@@ -1618,10 +1618,17 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/o
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 group-title="Premier League" tvg-id="dazn3_spain" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg",🇪🇸 DAZN 3 Spain
+#EXTINF:-1 group-title="Premier " tvg-id="dazn3_spain" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg",🇪🇸 DAZN 3 Spain
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/7kzd01H/peacock.png" group-title="Premier League",Peacock PL TV ðŸ‡ºðŸ‡¸ (5.9s)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.
 
 #EXTINF:-1 tvg-id="Setanta HD" tvg-logo="https://imgcdn.solopos.com/@space/_large/2016/02/4zpFnhsS-Liga-Premier-Inggris-Standard.co_.uk_.jpg" group-title="Premier League",Setanta HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1637,6 +1644,43 @@ http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70934
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+#EXTINF:-1 tvg-id="811.astro" ch-number="811" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="Premier League" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",ASSP HD CH811
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" }], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEZzFOR1ptWkRRdE5tWmhNaTAwWXpVekxUbGxPV1V0WW1JMk1EQmlORGxpWmpZMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNDIwMjc5NCwiaWF0IjoxNzIzNTk4Nzk0fQ.KLfzmKGH6r3kEDa4BpsDFPnCTsiS3unJnxqis2_7NXs"}
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="812.astro" ch-number="812" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="Premier League" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",ASSP2 HD CH812
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" }], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEZzFOR1ptWkRRdE5tWmhNaTAwWXpVekxUbGxPV1V0WW1JMk1EQmlORGxpWmpZMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNDIwMjc5NCwiaWF0IjoxNzIzNTk4Nzk0fQ.KLfzmKGH6r3kEDa4BpsDFPnCTsiS3unJnxqis2_7NXs"}
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 tvg-id="813.astro" ch-number="813" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="Premier League" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",ASSP3 HD CH813
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEZzFOR1ptWkRRdE5tWmhNaTAwWXpVekxUbGxPV1V0WW1JMk1EQmlORGxpWmpZMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyNDIwMjc5NCwiaWF0IjoxNzIzNTk4Nzk0fQ.KLfzmKGH6r3kEDa4BpsDFPnCTsiS3unJnxqis2_7NXs"}
+https://d3ey18635ukr4v.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="814.astro" ch-number="814" group-logo="http://vod-poster.astro.com.my/profile_avatar/Default.png" group-title="Premier League" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",ASSP4 HD CH814
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+
+
 
 #EXTINF:-1 tvg-name="" tvg-id="Arena Premium 2.ba" tvg-logo="https://i.ibb.co.com/HKHVbhz/a2p.png" group-title="Premier League",ARENA SPORT PREMIUM 2 🇧🇦 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
