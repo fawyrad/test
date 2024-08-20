@@ -2170,7 +2170,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="beINSports4WORLD TV.us" tvg-logo="https://i.ibb.co.com/wLGqW0B/bein4.png" group-title="📡Malaysia(ASTRO SPORTS)📡#EXTM3U",BEIN Sports 4 
+#EXTINF:-1 tvg-name="" tvg-id="beINSports4WORLD TV.us" tvg-logo="https://i.ibb.co.com/wLGqW0B/bein4.png" group-title="📡Malaysia(ASTRO SPORTS)📡",BEIN Sports 4 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
